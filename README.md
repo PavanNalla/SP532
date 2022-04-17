@@ -1,7 +1,7 @@
 CS532 Hw4
 
 Working partners:
-Pavan Kumar Nalla
+Pavan Kumar Nalla,
 Sushmitha Vaggu
 
 Demo done with alyssa on 04/15/2022
